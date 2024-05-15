@@ -3,8 +3,17 @@
 - Create React app
 - Configured TailwindCSS
 - Header
+- Routing of App
 - Login Form
 - Signup Form
+- Form Validation
+- useRef Hook
+- Firebase setup
+- Create SignUp User account
+- Implemented SignIn User api
+- Created Redux Store with userSlice
+- Implemented SignOut
+- Update Profile
 
 # Features
 - Login/Sign Up
@@ -20,3 +29,4 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
+
